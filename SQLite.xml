@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE items>
+<items>
+    <row>
+       <prioridad>Alta</prioridad>
+       <cantidad>3</cantidad>
+    </row>
+    <row>
+       <prioridad>Media</prioridad>
+       <cantidad>2</cantidad>
+    </row>
+</items>
